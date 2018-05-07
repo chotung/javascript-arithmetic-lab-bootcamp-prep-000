@@ -1,12 +1,12 @@
-function add(){
-  x + y;
+function add(a,b){
+  return a + b;
 }
-function subtract(){
-  x - y;
+function subtract(a,b){
+  return a - b;
 }
-function multiply(){
-  x * y;
+function multiply(a,b){
+ return a * b;
 }
-function divide(){
-  x / y;
+function divide(a,b){
+  return a / b;
 }
